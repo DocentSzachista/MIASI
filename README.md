@@ -20,8 +20,8 @@ Aby przerwać pobieranie strumienia należy kliknąć kombinację klawiszy ctrl+
 
 | numer labów | temat|status |
 |:-:|---|:-:|
-| 1 |Tworzenie kalkulatora z pomocą wzorca projektowego visitor| Ocenione: 5.0 |
-| 2 | Wykorzystanie wzorca projektowego listener | In progress | 
+| 1 | Tworzenie kalkulatora z pomocą wzorca projektowego visitor| Ocenione: 5.0 |
+| 2 | Stworzenie instrukcji warunkowej, pętli while i funkcję bezargumentową | Ocenione: 5.0 | 
 | 3|||
 |4|||
 |5|||

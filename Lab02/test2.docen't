@@ -1,0 +1,17 @@
+x=1
+y=2
+
+print x+y
+print x*y
+
+if x<y:
+print y/x
+print x
+fi
+
+
+if x>y:
+print x
+else:
+print y
+fi

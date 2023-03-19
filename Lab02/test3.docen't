@@ -1,0 +1,7 @@
+def abc():
+begin
+x=1
+print x
+end
+
+abc()
