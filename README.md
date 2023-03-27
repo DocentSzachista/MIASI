@@ -9,11 +9,13 @@ Trzymam tutaj swoje rozwiązania zadań z laboratorium z kursu  Modelowanie i an
   - StringTemplate v4
 - [antlr-4.11.1-complete.jar](https://github.com/antlr/website-antlr4/tree/gh-pages/download) bądź wyżej.
 ## Tips 
-Podczas odpalania któregokolwiek z labów należy podczas wykonywania operacji tworzyć znak nowej linii tak aby input wyglądał w następujący sposób:
+Podczas odpalania pierwszych labów należy podczas wykonywania operacji tworzyć znak nowej linii tak aby input wyglądał w następujący sposób:
 ```
 1+2
 
 ```
+W przypadku innych labów operacje są pobierane z plików które znajdują się w folderze projektu.
+
 Aby przerwać pobieranie strumienia należy kliknąć kombinację klawiszy ctrl+D w inteliij. 
 
 ## Tematyka labów
