@@ -22,8 +22,8 @@ Aby przerwać pobieranie strumienia należy kliknąć kombinację klawiszy ctrl+
 |:-:|---|:-:|
 | 1 | Tworzenie kalkulatora z pomocą wzorca projektowego visitor| Ocenione: 5.0 |
 | 2 | Stworzenie instrukcji warunkowej, pętli while i funkcję bezargumentową | Ocenione: 5.0 | 
-| 3|||
-|4|||
+| 3| Tworzenie kompilatora w formie warsztatów| Brak oceny |
+|4| Tworzenie kompilatora na ocenę | in progress|
 |5|||
 |6|||
 |7|||
