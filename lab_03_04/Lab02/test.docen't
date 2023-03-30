@@ -1,0 +1,15 @@
+ x=3
+while x==3:
+x=2
+print x
+print x+5
+done
+
+while x<5:
+print x
+if x==2:
+x=3
+else:
+x= x+2
+fi
+done

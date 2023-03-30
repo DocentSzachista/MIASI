@@ -1,0 +1,61 @@
+group reg;
+
+deflt(elem) ::= <<
+    <elem; separator="\n">
+>>
+
+int(i) ::= <<
+MOV A,#<i>
+>>
+
+twoop(p1, p2) ::= <<
+<p2>
+PUSH A
+<p1>
+POP B
+>>
+
+add(p1,p2) ::= <<
+<twoop(p1,p2)>
+ADD A,B
+>>
+
+sub(p1,p2) ::= <<
+<twoop(p1,p2)>
+SUB A,B
+>>
+
+div(p1,p2) ::= <<
+<twoop(p1,p2)>
+DIV A, B
+>>
+
+mul(p1,p2) ::=<<
+<twoop(p1,p2)>
+MUL A,B
+>>
+
+
+declare(n) ::= <<
+DD <n>
+>>
+
+comp(p1, p2) ::= <<
+<twoop(p1,p2)>
+CMP A, B
+>>
+
+cond(label_index, condition, if_true, if_false="null")::=<<
+; if
+; condition:
+<condition>
+POP A
+JE cond_<label_index>_false
+; if true:
+<if_true>
+JMP cond_<label_index>_end
+; if false:
+cond_<label_index>_false:
+<if_false>
+cond_<label_index>_end:
+>>
