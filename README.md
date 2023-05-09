@@ -19,20 +19,11 @@ W przypadku innych labów operacje są pobierane z plików które znajdują się
 Aby przerwać pobieranie strumienia należy kliknąć kombinację klawiszy ctrl+D w inteliij. 
 
 ## Tematyka labów
-
+Komentarz: Laby mają formę przejściową (tzn. ze prawdopodobnie laby od 5 w górę będą wyglądać inaczej za rok). Powyżej lab4 jest wprowadzany UML w visual paradigmie. 
+Nie chce mi się wrzucać binarek więc pozostanie to takie jakie jest. Potencjalnie aktualizacja moze być jeszcze dla sieci petriego ale nie obiecuję  
 | numer labów | temat|status |
 |:-:|---|:-:|
 | 1 | Tworzenie kalkulatora z pomocą wzorca projektowego visitor| Ocenione: 5.0 |
 | 2 | Stworzenie instrukcji warunkowej, pętli while i funkcję bezargumentową | Ocenione: 5.0 | 
 | 3| Tworzenie kompilatora w formie warsztatów| Brak oceny |
 |4| Tworzenie kompilatora na ocenę (zaimplementowanie if'a i obsługa operacji liczbowych) | 5.0 |
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
